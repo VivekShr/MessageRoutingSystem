@@ -1,0 +1,11 @@
+C:\Users\Vivek-admin\source\repos\MessageQueuingSystem\MessageQueuingSystem\bin\Debug\netcoreapp2.0\MessageQueuingSystem.deps.json
+C:\Users\Vivek-admin\source\repos\MessageQueuingSystem\MessageQueuingSystem\bin\Debug\netcoreapp2.0\MessageQueuingSystem.runtimeconfig.json
+C:\Users\Vivek-admin\source\repos\MessageQueuingSystem\MessageQueuingSystem\bin\Debug\netcoreapp2.0\MessageQueuingSystem.runtimeconfig.dev.json
+C:\Users\Vivek-admin\source\repos\MessageQueuingSystem\MessageQueuingSystem\bin\Debug\netcoreapp2.0\MessageQueuingSystem.dll
+C:\Users\Vivek-admin\source\repos\MessageQueuingSystem\MessageQueuingSystem\obj\Debug\netcoreapp2.0\MessageQueuingSystem.csprojAssemblyReference.cache
+C:\Users\Vivek-admin\source\repos\MessageQueuingSystem\MessageQueuingSystem\obj\Debug\netcoreapp2.0\MessageQueuingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Vivek-admin\source\repos\MessageQueuingSystem\MessageQueuingSystem\obj\Debug\netcoreapp2.0\MessageQueuingSystem.AssemblyInfoInputs.cache
+C:\Users\Vivek-admin\source\repos\MessageQueuingSystem\MessageQueuingSystem\obj\Debug\netcoreapp2.0\MessageQueuingSystem.AssemblyInfo.cs
+C:\Users\Vivek-admin\source\repos\MessageQueuingSystem\MessageQueuingSystem\bin\Debug\netcoreapp2.0\MessageQueuingSystem.pdb
+C:\Users\Vivek-admin\source\repos\MessageQueuingSystem\MessageQueuingSystem\obj\Debug\netcoreapp2.0\MessageQueuingSystem.dll
+C:\Users\Vivek-admin\source\repos\MessageQueuingSystem\MessageQueuingSystem\obj\Debug\netcoreapp2.0\MessageQueuingSystem.pdb
